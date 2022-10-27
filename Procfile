@@ -1,1 +1,1 @@
-web: gunicorn videotecablog.wsgi
+web: gunicorn Videotecablog.wsgi
